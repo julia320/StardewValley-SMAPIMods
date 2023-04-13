@@ -1,0 +1,10 @@
+{
+    "Name": "Talk More Than Once",
+    "Author": "JuicyJulla",
+    "Version": "1.0.0",
+    "Description": "See more than one dialogue option from an NPC in one day",
+    "UniqueID": "JuicyJulla.TalkMoreThanOnce",
+    "EntryDll": "TalkMoreThanOnce.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": []
+  }
